@@ -4971,6 +4971,1662 @@
           }
         }
       }
+    },
+    {
+      "bytes": 449580,
+      "hash": "ac85a3e69ea07e0b50bf62aa663860d157b7a64c9d303e8d3a18a751ee90957b",
+      "format": "csv",
+      "schema": {
+        "fields": [
+          {
+            "title": "ejercicio",
+            "name": "ejercicio",
+            "slug": "ejercicio",
+            "type": "integer",
+            "format": "default",
+            "columnType": "date:fiscal-year",
+            "conceptType": "date",
+            "options": []
+          },
+          {
+            "title": "mes",
+            "name": "mes",
+            "slug": "mes",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "titulo_codigo",
+            "name": "titulo_codigo",
+            "slug": "titulo_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "administrative-classification:generic:level1:code",
+            "conceptType": "administrative-classification",
+            "options": []
+          },
+          {
+            "title": "titulo_descripcion",
+            "name": "titulo_descripcion",
+            "slug": "titulo_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "administrative-classification:generic:level1:label",
+            "conceptType": "administrative-classification",
+            "options": []
+          },
+          {
+            "title": "ci_clase_codigo",
+            "name": "ci_clase_codigo",
+            "slug": "ci_clase_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_clase_descripcion",
+            "name": "ci_clase_descripcion",
+            "slug": "ci_clase_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subclase_codigo",
+            "name": "ci_subclase_codigo",
+            "slug": "ci_subclase_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subclase_descripcion",
+            "name": "ci_subclase_descripcion",
+            "slug": "ci_subclase_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_grupo_codigo",
+            "name": "ci_grupo_codigo",
+            "slug": "ci_grupo_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_grupo_descripcion",
+            "name": "ci_grupo_descripcion",
+            "slug": "ci_grupo_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subgrupo_codigo",
+            "name": "ci_subgrupo_codigo",
+            "slug": "ci_subgrupo_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subgrupo_descripcion",
+            "name": "ci_subgrupo_descripcion",
+            "slug": "ci_subgrupo_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_partida_codigo",
+            "name": "ci_partida_codigo",
+            "slug": "ci_partida_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_partida_descripcion",
+            "name": "ci_partida_descripcion",
+            "slug": "ci_partida_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subpartida_codigo",
+            "name": "ci_subpartida_codigo",
+            "slug": "ci_subpartida_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subpartida_descripcion",
+            "name": "ci_subpartida_descripcion",
+            "slug": "ci_subpartida_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_renglon_codigo",
+            "name": "ci_renglon_codigo",
+            "slug": "ci_renglon_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_renglon_descripcion",
+            "name": "ci_renglon_descripcion",
+            "slug": "ci_renglon_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subrenglon_codigo",
+            "name": "ci_subrenglon_codigo",
+            "slug": "ci_subrenglon_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_subrenglon_descripcion",
+            "name": "ci_subrenglon_descripcion",
+            "slug": "ci_subrenglon_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_fuente_codigo",
+            "name": "ci_fuente_codigo",
+            "slug": "ci_fuente_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ci_fuente_descripcion",
+            "name": "ci_fuente_descripcion",
+            "slug": "ci_fuente_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ff_codigo",
+            "name": "ff_codigo",
+            "slug": "ff_codigo",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ff_descripcion",
+            "name": "ff_descripcion",
+            "slug": "ff_descripcion",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "ff_clase2",
+            "name": "ff_clase2",
+            "slug": "ff_clase2",
+            "type": "string",
+            "format": "default",
+            "columnType": "unknown:string",
+            "conceptType": "unknown",
+            "options": []
+          },
+          {
+            "title": "pi_monto",
+            "name": "pi_monto",
+            "slug": "pi_monto",
+            "type": "number",
+            "format": "default",
+            "columnType": "value",
+            "conceptType": "value",
+            "options": [
+              {
+                "name": "decimalChar",
+                "title": "Decimal Separator",
+                "defaultValue": ".",
+                "trim": "false"
+              },
+              {
+                "name": "groupChar",
+                "title": "Grouping Character",
+                "defaultValue": ",",
+                "trim": "false"
+              },
+              {
+                "name": "currency",
+                "title": "Currency",
+                "values": []
+              },
+              {
+                "name": "factor",
+                "title": "Factor",
+                "type": "number"
+              },
+              {
+                "name": "direction",
+                "title": "Direction",
+                "values": [
+                  {
+                    "name": "Expenditure",
+                    "value": "expenditure"
+                  },
+                  {
+                    "name": "Revenue",
+                    "value": "revenue"
+                  }
+                ]
+              },
+              {
+                "name": "phase",
+                "title": "Phase",
+                "values": [
+                  {
+                    "name": "Proposed",
+                    "value": "proposed"
+                  },
+                  {
+                    "name": "Approved",
+                    "value": "approved"
+                  },
+                  {
+                    "name": "Adjusted",
+                    "value": "adjusted"
+                  },
+                  {
+                    "name": "Executed",
+                    "value": "executed"
+                  }
+                ]
+              }
+            ],
+            "decimalChar": ".",
+            "groupChar": ","
+          },
+          {
+            "title": "pp_monto",
+            "name": "pp_monto",
+            "slug": "pp_monto",
+            "type": "number",
+            "format": "default",
+            "columnType": "value",
+            "conceptType": "value",
+            "options": [
+              {
+                "name": "decimalChar",
+                "title": "Decimal Separator",
+                "defaultValue": ".",
+                "trim": "false"
+              },
+              {
+                "name": "groupChar",
+                "title": "Grouping Character",
+                "defaultValue": ",",
+                "trim": "false"
+              },
+              {
+                "name": "currency",
+                "title": "Currency",
+                "values": []
+              },
+              {
+                "name": "factor",
+                "title": "Factor",
+                "type": "number"
+              },
+              {
+                "name": "direction",
+                "title": "Direction",
+                "values": [
+                  {
+                    "name": "Expenditure",
+                    "value": "expenditure"
+                  },
+                  {
+                    "name": "Revenue",
+                    "value": "revenue"
+                  }
+                ]
+              },
+              {
+                "name": "phase",
+                "title": "Phase",
+                "values": [
+                  {
+                    "name": "Proposed",
+                    "value": "proposed"
+                  },
+                  {
+                    "name": "Approved",
+                    "value": "approved"
+                  },
+                  {
+                    "name": "Adjusted",
+                    "value": "adjusted"
+                  },
+                  {
+                    "name": "Executed",
+                    "value": "executed"
+                  }
+                ]
+              }
+            ],
+            "decimalChar": ".",
+            "groupChar": ","
+          },
+          {
+            "title": "de_monto",
+            "name": "de_monto",
+            "slug": "de_monto",
+            "type": "number",
+            "format": "default",
+            "columnType": "value",
+            "conceptType": "value",
+            "options": [
+              {
+                "name": "decimalChar",
+                "title": "Decimal Separator",
+                "defaultValue": ".",
+                "trim": "false"
+              },
+              {
+                "name": "groupChar",
+                "title": "Grouping Character",
+                "defaultValue": ",",
+                "trim": "false"
+              },
+              {
+                "name": "currency",
+                "title": "Currency",
+                "values": []
+              },
+              {
+                "name": "factor",
+                "title": "Factor",
+                "type": "number"
+              },
+              {
+                "name": "direction",
+                "title": "Direction",
+                "values": [
+                  {
+                    "name": "Expenditure",
+                    "value": "expenditure"
+                  },
+                  {
+                    "name": "Revenue",
+                    "value": "revenue"
+                  }
+                ]
+              },
+              {
+                "name": "phase",
+                "title": "Phase",
+                "values": [
+                  {
+                    "name": "Proposed",
+                    "value": "proposed"
+                  },
+                  {
+                    "name": "Approved",
+                    "value": "approved"
+                  },
+                  {
+                    "name": "Adjusted",
+                    "value": "adjusted"
+                  },
+                  {
+                    "name": "Executed",
+                    "value": "executed"
+                  }
+                ]
+              }
+            ],
+            "decimalChar": ".",
+            "groupChar": ","
+          },
+          {
+            "title": "pa_monto",
+            "name": "pa_monto",
+            "slug": "pa_monto",
+            "type": "number",
+            "format": "default",
+            "columnType": "value",
+            "conceptType": "value",
+            "options": [
+              {
+                "name": "decimalChar",
+                "title": "Decimal Separator",
+                "defaultValue": ".",
+                "trim": "false"
+              },
+              {
+                "name": "groupChar",
+                "title": "Grouping Character",
+                "defaultValue": ",",
+                "trim": "false"
+              },
+              {
+                "name": "currency",
+                "title": "Currency",
+                "values": []
+              },
+              {
+                "name": "factor",
+                "title": "Factor",
+                "type": "number"
+              },
+              {
+                "name": "direction",
+                "title": "Direction",
+                "values": [
+                  {
+                    "name": "Expenditure",
+                    "value": "expenditure"
+                  },
+                  {
+                    "name": "Revenue",
+                    "value": "revenue"
+                  }
+                ]
+              },
+              {
+                "name": "phase",
+                "title": "Phase",
+                "values": [
+                  {
+                    "name": "Proposed",
+                    "value": "proposed"
+                  },
+                  {
+                    "name": "Approved",
+                    "value": "approved"
+                  },
+                  {
+                    "name": "Adjusted",
+                    "value": "adjusted"
+                  },
+                  {
+                    "name": "Executed",
+                    "value": "executed"
+                  }
+                ]
+              }
+            ],
+            "decimalChar": ".",
+            "groupChar": ","
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      },
+      "encoding": "utf-8",
+      "mediatype": "text/csv",
+      "name": "ingreso2020ene_may__2020.csv",
+      "dialect": {
+        "delimiter": ",",
+        "quoteChar": "\""
+      },
+      "path": "data/ingreso2020ene_may__2020.csv",
+      "hashcopy": "8fe1241eedf7ac6a1fa417e44660837290bfaf5c0a1671dbfd07259941b8dd6d",
+      "sample": [
+        [
+          "ejercicio",
+          "mes",
+          "titulo_codigo",
+          "titulo_descripcion",
+          "ci_clase_codigo",
+          "ci_clase_descripcion",
+          "ci_subclase_codigo",
+          "ci_subclase_descripcion",
+          "ci_grupo_codigo",
+          "ci_grupo_descripcion",
+          "ci_subgrupo_codigo",
+          "ci_subgrupo_descripcion",
+          "ci_partida_codigo",
+          "ci_partida_descripcion",
+          "ci_subpartida_codigo",
+          "ci_subpartida_descripcion",
+          "ci_renglon_codigo",
+          "ci_renglon_descripcion",
+          "ci_subrenglon_codigo",
+          "ci_subrenglon_descripcion",
+          "ci_fuente_codigo",
+          "ci_fuente_descripcion",
+          "ff_codigo",
+          "ff_descripcion",
+          "ff_clase2",
+          "pi_monto",
+          "pp_monto",
+          "de_monto",
+          "pa_monto"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1111",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE PERSON AS FÍSICAS",
+          "111101",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "11110101",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "111101010",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "1111010100",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "1111010100001",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "319538100000.00",
+          "319538100000.00",
+          "22868917395.08",
+          "22868917395.08"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1111",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE PERSON AS FÍSICAS",
+          "111102",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "11110201",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "111102010",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "1111020100",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "1111020100001",
+          "Impuesto sobre salarios jubilaciones pensiones y otros pagos laborales del Se",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "233358800000.00",
+          "233358800000.00",
+          "20773703810.00",
+          "20773703810.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1111",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE PERSON AS FÍSICAS",
+          "111103",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "11110301",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "111103010",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "1111030100",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "1111030100001",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "54000000000.00",
+          "54000000000.00",
+          "3366224004.58",
+          "3366224004.58"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1111",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE PERSON AS FÍSICAS",
+          "111103",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "11110302",
+          "Impuesto sobre rentas de capital inmobiliario de personas físicas",
+          "111103020",
+          "Impuesto sobre rentas de capital inmobiliario de personas físicas",
+          "1111030200",
+          "Impuesto sobre rentas de capital inmobiliario de personas físicas",
+          "1111030200001",
+          "Impuesto sobre rentas de capital inmobiliario de personas físicas",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "0.00",
+          "0.00",
+          "1056927930.00",
+          "1056927930.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1111",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE PERSON AS FÍSICAS",
+          "111103",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "11110303",
+          "Impuesto sobre rentas de capital mobiliario de personas físicas",
+          "111103030",
+          "Impuesto sobre rentas de capital mobiliario de personas físicas",
+          "1111030300",
+          "Impuesto sobre rentas de capital mobiliario de personas físicas",
+          "1111030300001",
+          "Impuesto sobre rentas de capital mobiliario de personas físicas",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "103954100000.00",
+          "103954100000.00",
+          "113506333.00",
+          "113506333.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1111",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE PERSON AS FÍSICAS",
+          "111103",
+          "Impuesto sobre los ingresos y utilidades de person as físicas",
+          "11110304",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas físicas",
+          "111103040",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas físicas",
+          "1111030400",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas físicas",
+          "1111030400001",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas físicas",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "26110800000.00",
+          "26110800000.00",
+          "214626032.00",
+          "214626032.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111201",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120101",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pú",
+          "111201010",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pú",
+          "1112010100",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pú",
+          "1112010100001",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pú",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "104000000000.00",
+          "104000000000.00",
+          "9069166411.17",
+          "9069166411.17"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111201",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120102",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del sector p",
+          "111201020",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del sector p",
+          "1112010200",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del sector p",
+          "1112010200001",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del sector p",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "0.00",
+          "0.00",
+          "2285106.00",
+          "2285106.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111201",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120103",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del sector púb",
+          "111201030",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del sector púb",
+          "1112010300",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del sector púb",
+          "1112010300001",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del sector púb",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "53714100000.00",
+          "53714100000.00",
+          "6106197362.52",
+          "6106197362.52"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111201",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120104",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "111201040",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "1112010400",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "1112010400001",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "26110800000.00",
+          "26110800000.00",
+          "0.00",
+          "0.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111202",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120200",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "111202000",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "1112020000",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "1112020000001",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas jurídicas del Sector P",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "0.00",
+          "0.00",
+          "0.00",
+          "0.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111202",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120201",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pr",
+          "111202010",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pr",
+          "1112020100",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pr",
+          "1112020100001",
+          "Impuesto sobre los ingresos y utilidades de las personas jurídicas del Sector Pr",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "747881400000.00",
+          "747881400000.00",
+          "29746248016.61",
+          "29746248016.61"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111202",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120202",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del Sector P",
+          "111202020",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del Sector P",
+          "1112020200",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del Sector P",
+          "1112020200001",
+          "Impuesto sobre rentas de capital inmobiliario de personas jurídicas del Sector P",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "0.00",
+          "0.00",
+          "4672039222.00",
+          "4672039222.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111202",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120203",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del Sector Pri",
+          "111202030",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del Sector Pri",
+          "1112020300",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del Sector Pri",
+          "1112020300001",
+          "Impuesto sobre rentas de capital mobiliario de personas jurídicas del Sector Pri",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "53714100000.00",
+          "53714100000.00",
+          "9636967159.80",
+          "9636967159.80"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1112",
+          "IMPUESTO SOBRE LOS INGRESOS Y UTILIDADES DE LAS PE RSONAS JURÍDICAS",
+          "111202",
+          "Impuesto sobre los ingresos y utilidades de las pe rsonas Jurídicas del Sector P",
+          "11120204",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "111202040",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "1112020400",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "1112020400001",
+          "Impuesto sobre las ganancias y pérdidas de capital de personas jurídicas del sec",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "26110800000.00",
+          "26110800000.00",
+          "650127031.00",
+          "650127031.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1113",
+          "IMPUESTO SOBRE DIVIDENDOS E INTERESES DE TITULOS V ALORES",
+          "111302",
+          "IMPUESTO SOBRE INTERESES DE TÍTULOS VALORES",
+          "11130200",
+          "IMPUESTO SOBRE INTERESES DE TÍTULOS VALORES",
+          "111302000",
+          "IMPUESTO SOBRE INTERESES DE TÍTULOS VALORES",
+          "1113020000",
+          "IMPUESTO SOBRE INTERESES DE TÍTULOS VALORES",
+          "1113020000001",
+          "Impuesto sobre Intereses de Títulos Valores",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "0.00",
+          "0.00",
+          "0.00",
+          "0.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "111",
+          "IMPUESTOS A LOS INGRESOS Y UTILIDADES",
+          "1114",
+          "IMPUESTO SOBRE REMESAS AL EXTERIOR",
+          "111401",
+          "Impuesto sobre remesas al exterior",
+          "11140100",
+          "Impuesto sobre remesas al exterior",
+          "111401000",
+          "Impuesto sobre remesas al exterior",
+          "1114010000",
+          "Impuesto sobre remesas al exterior",
+          "1114010000001",
+          "Impuesto sobre remesas al exterior. Ley Nº 7092 de 21-4-88)",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "198473800000.00",
+          "198473800000.00",
+          "30355160206.99",
+          "30355160206.99"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "112",
+          "IMPUESTOS SOBRE LA PROPIEDAD",
+          "1121",
+          "Impuesto sobre la propiedad de bienes inmuebles",
+          "112101",
+          "Impuesto Solidario",
+          "11210100",
+          "Impuesto Solidario",
+          "112101000",
+          "Impuesto Solidario",
+          "1121010000",
+          "Impuesto Solidario",
+          "1121010000001",
+          "Impuesto Solidario",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "4680000000.00",
+          "4680000000.00",
+          "3492115268.00",
+          "3492115268.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "112",
+          "IMPUESTOS SOBRE LA PROPIEDAD",
+          "1122",
+          "Impuesto sobre la propiedad de vehículos aeronave s y embarcaciones",
+          "112201",
+          "Impuesto sobre la propiedad de vehículos aeronave s y embarcaciones. Ley Nº 708",
+          "11220100",
+          "Impuesto sobre la propiedad de vehículos aeronave s y embarcaciones. Ley Nº 708",
+          "112201000",
+          "Impuesto sobre la propiedad de vehículos aeronave s y embarcaciones. Ley Nº 708",
+          "1122010000",
+          "Impuesto sobre la propiedad de vehículos aeronave s y embarcaciones. Ley Nº 708",
+          "1122010000001",
+          "Impuesto sobre la propiedad de vehículos aeronave s y embarcaciones. Ley Nº 708",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "185000000000.00",
+          "185000000000.00",
+          "10871591569.75",
+          "10871591569.75"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "112",
+          "IMPUESTOS SOBRE LA PROPIEDAD",
+          "1122",
+          "Impuesto sobre la propiedad de vehículos aeronave s y embarcaciones",
+          "112202",
+          "Timbre Fauna Silvestre. Ley Nº 7317 del 30-10-92",
+          "11220200",
+          "Timbre Fauna Silvestre. Ley Nº 7317 del 30-10-92",
+          "112202000",
+          "Timbre Fauna Silvestre. Ley Nº 7317 del 30-10-92",
+          "1122020000",
+          "Timbre Fauna Silvestre. Ley Nº 7317 del 30-10-92",
+          "1122020000001",
+          "Timbre Fauna Silvestre. Ley Nº 7317 del 30-10-92",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "1990000000.00",
+          "1990000000.00",
+          "140815137.24",
+          "140815137.24"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "112",
+          "IMPUESTOS SOBRE LA PROPIEDAD",
+          "1123",
+          "Impuesto sobre el patrimonio",
+          "112301",
+          "Incremento timbre de educación y cultura. Ley Nº 6 879 del 19-08-83",
+          "11230100",
+          "Incremento timbre de educación y cultura. Ley Nº 6 879 del 19-08-83",
+          "112301000",
+          "Incremento timbre de educación y cultura. Ley Nº 6 879 del 19-08-83",
+          "1123010000",
+          "Incremento timbre de educación y cultura. Ley Nº 6 879 del 19-08-83",
+          "1123010000001",
+          "Incremento timbre de educación y cultura. Ley Nº 6 879 del 19-08-83",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "646000000.00",
+          "646000000.00",
+          "0.00",
+          "0.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "112",
+          "IMPUESTOS SOBRE LA PROPIEDAD",
+          "1123",
+          "Impuesto sobre el patrimonio",
+          "112303",
+          "Impuesto Personas Jurídicas (sociedades) Ley 9428",
+          "11230300",
+          "Impuesto Personas Jurídicas (sociedades) Ley 9428",
+          "112303000",
+          "Impuesto Personas Jurídicas (sociedades) Ley 9428",
+          "1123030000",
+          "Impuesto Personas Jurídicas (sociedades) Ley 9428",
+          "1123030000001",
+          "Impuesto Personas Jurídicas (sociedades) Ley 9428",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "27000000000.00",
+          "27000000000.00",
+          "12173114295.88",
+          "12173114295.88"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "112",
+          "IMPUESTOS SOBRE LA PROPIEDAD",
+          "1124",
+          "Impuesto sobre los traspasos de bienes inmuebles",
+          "112401",
+          "Impuesto sobre el traspaso de bienes inmuebles. Le y Nº 7088",
+          "11240100",
+          "Impuesto sobre el traspaso de bienes inmuebles. Le y Nº 7088",
+          "112401000",
+          "Impuesto sobre el traspaso de bienes inmuebles. Le y Nº 7088",
+          "1124010000",
+          "Impuesto sobre el traspaso de bienes inmuebles. Le y Nº 7088",
+          "1124010000001",
+          "Impuesto sobre el traspaso de bienes inmuebles. Le y Nº 7088",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "35700000000.00",
+          "35700000000.00",
+          "2747738260.51",
+          "2747738260.51"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "112",
+          "IMPUESTOS SOBRE LA PROPIEDAD",
+          "1125",
+          "Impuesto a los traspasos de vehículos aeronaves y Embarcaciones",
+          "112501",
+          "Impuesto de Traspaso de Vehículos Usados Ley No. 7 088",
+          "11250100",
+          "Impuesto de Traspaso de Vehículos Usados Ley No. 7 088",
+          "112501000",
+          "Impuesto de Traspaso de Vehículos Usados Ley No. 7 088",
+          "1125010000",
+          "Impuesto de Traspaso de Vehículos Usados Ley No. 7 088",
+          "1125010000001",
+          "Impuesto de Traspaso de Vehículos Usados Ley No. 7 088",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "24700000000.00",
+          "24700000000.00",
+          "2204040352.00",
+          "2204040352.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "113",
+          "IMPUESTOS SOBRE BIENES Y SERVICIOS",
+          "1131",
+          "IMPUESTO GENERAL SOBRE VENTAS Y CONSUMO",
+          "113101",
+          "IMPUESTO GENERAL SOBRE LAS VENTAS",
+          "11310101",
+          "Impuesto sobre las ventas de bienes y servicios in ternos",
+          "113101010",
+          "Impuesto sobre las ventas de bienes y servicios in ternos",
+          "1131010100",
+          "Impuesto sobre las ventas de bienes y servicios in ternos",
+          "1131010100001",
+          "Impuesto sobre las Ventas. Ley Nº 7543 de 14-9-95",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "1042706400000.00",
+          "1042706400000.00",
+          "119171421938.06",
+          "119171421938.06"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "113",
+          "IMPUESTOS SOBRE BIENES Y SERVICIOS",
+          "1131",
+          "IMPUESTO GENERAL SOBRE VENTAS Y CONSUMO",
+          "113101",
+          "IMPUESTO GENERAL SOBRE LAS VENTAS",
+          "11310102",
+          "Impuesto sobre las ventas de bienes y servicios im portados",
+          "113101020",
+          "Impuesto sobre las ventas de bienes y servicios im portados",
+          "1131010200",
+          "Impuesto sobre las ventas de bienes y servicios im portados",
+          "1131010200001",
+          "Impuesto sobre las Ventas. Ley Nº 7543 de 14-9-95",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "728429900000.00",
+          "728429900000.00",
+          "56975153002.45",
+          "56975153002.45"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "113",
+          "IMPUESTOS SOBRE BIENES Y SERVICIOS",
+          "1131",
+          "IMPUESTO GENERAL SOBRE VENTAS Y CONSUMO",
+          "113102",
+          "IMPUESTO SELECTIVO DE CONSUMO",
+          "11310201",
+          "Impuesto selectivo de consumo de bienes internos",
+          "113102010",
+          "Impuesto selectivo de consumo de bienes internos",
+          "1131020100",
+          "Impuesto selectivo de consumo de bienes internos",
+          "1131020100001",
+          "Impuestos Selectivos de Consumo. Ley Nº 7293 de 31 -3-92 y sus Reformas)",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "15030000000.00",
+          "15030000000.00",
+          "1462256889.00",
+          "1462256889.00"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "113",
+          "IMPUESTOS SOBRE BIENES Y SERVICIOS",
+          "1131",
+          "IMPUESTO GENERAL SOBRE VENTAS Y CONSUMO",
+          "113102",
+          "IMPUESTO SELECTIVO DE CONSUMO",
+          "11310202",
+          "Impuesto selectivo de consumo de bienes importados",
+          "113102020",
+          "Impuesto selectivo de consumo de bienes importados",
+          "1131020200",
+          "Impuesto selectivo de consumo de bienes importados",
+          "1131020200001",
+          "Impuestos Selectivos de Consumo. Ley Nº 7293 de 31 -3-92 y sus Reformas)",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "151970000000.00",
+          "151970000000.00",
+          "13980338551.31",
+          "13980338551.31"
+        ],
+        [
+          "2020",
+          "01",
+          "206",
+          "Ministerio de Hacienda",
+          "1",
+          "INGRESOS CORRIENTES",
+          "11",
+          "INGRESOS TRIBUTARIOS",
+          "113",
+          "IMPUESTOS SOBRE BIENES Y SERVICIOS",
+          "1132",
+          "IMPUESTOS ESPECÍFICOS SOBRE LA PRODUCCIÓN Y CONSUM O DE BIENES Y SERVICIOS",
+          "113201",
+          "IMPUESTOS ESPECÍFICOS SOBRE LA PRODUCCIÓN Y CONSUM O DE BIENES",
+          "11320103",
+          "Impuestos específicos sobre los combustibles y ene rgéticos",
+          "113201031",
+          "Impuesto único a los combustibles. Art.1 Ley Nº 81 14",
+          "1132010311",
+          "Impuesto único a los combustibles. Art.1 Ley Nº 81 14 (interno)",
+          "1132010311001",
+          "Impuesto único a los combustibles. Art.1 Ley Nº 81 14 (interno)",
+          "001",
+          "Ingresos Corrientes",
+          "INTERNO",
+          "325000000000.00",
+          "325000000000.00",
+          "32377517334.00",
+          "32377517334.00"
+        ]
+      ],
+      "model": {
+        "dimensions": {
+          "date": {
+            "dimensionType": "datetime",
+            "primaryKey": [
+              "ejercicio"
+            ],
+            "attributes": {
+              "ejercicio": {
+                "source": "ejercicio",
+                "title": "ejercicio"
+              }
+            }
+          },
+          "unknown": {
+            "dimensionType": "other",
+            "primaryKey": [
+              "mes",
+              "ci_clase_codigo",
+              "ci_clase_descripcion",
+              "ci_subclase_codigo",
+              "ci_subclase_descripcion",
+              "ci_grupo_codigo",
+              "ci_grupo_descripcion",
+              "ci_subgrupo_codigo",
+              "ci_subgrupo_descripcion",
+              "ci_partida_codigo",
+              "ci_partida_descripcion",
+              "ci_subpartida_codigo",
+              "ci_subpartida_descripcion",
+              "ci_renglon_codigo",
+              "ci_renglon_descripcion",
+              "ci_subrenglon_codigo",
+              "ci_subrenglon_descripcion",
+              "ci_fuente_codigo",
+              "ci_fuente_descripcion",
+              "ff_codigo",
+              "ff_descripcion",
+              "ff_clase2"
+            ],
+            "attributes": {
+              "mes": {
+                "source": "mes",
+                "title": "mes"
+              },
+              "ci_clase_codigo": {
+                "source": "ci_clase_codigo",
+                "title": "ci_clase_codigo"
+              },
+              "ci_clase_descripcion": {
+                "source": "ci_clase_descripcion",
+                "title": "ci_clase_descripcion"
+              },
+              "ci_subclase_codigo": {
+                "source": "ci_subclase_codigo",
+                "title": "ci_subclase_codigo"
+              },
+              "ci_subclase_descripcion": {
+                "source": "ci_subclase_descripcion",
+                "title": "ci_subclase_descripcion"
+              },
+              "ci_grupo_codigo": {
+                "source": "ci_grupo_codigo",
+                "title": "ci_grupo_codigo"
+              },
+              "ci_grupo_descripcion": {
+                "source": "ci_grupo_descripcion",
+                "title": "ci_grupo_descripcion"
+              },
+              "ci_subgrupo_codigo": {
+                "source": "ci_subgrupo_codigo",
+                "title": "ci_subgrupo_codigo"
+              },
+              "ci_subgrupo_descripcion": {
+                "source": "ci_subgrupo_descripcion",
+                "title": "ci_subgrupo_descripcion"
+              },
+              "ci_partida_codigo": {
+                "source": "ci_partida_codigo",
+                "title": "ci_partida_codigo"
+              },
+              "ci_partida_descripcion": {
+                "source": "ci_partida_descripcion",
+                "title": "ci_partida_descripcion"
+              },
+              "ci_subpartida_codigo": {
+                "source": "ci_subpartida_codigo",
+                "title": "ci_subpartida_codigo"
+              },
+              "ci_subpartida_descripcion": {
+                "source": "ci_subpartida_descripcion",
+                "title": "ci_subpartida_descripcion"
+              },
+              "ci_renglon_codigo": {
+                "source": "ci_renglon_codigo",
+                "title": "ci_renglon_codigo"
+              },
+              "ci_renglon_descripcion": {
+                "source": "ci_renglon_descripcion",
+                "title": "ci_renglon_descripcion"
+              },
+              "ci_subrenglon_codigo": {
+                "source": "ci_subrenglon_codigo",
+                "title": "ci_subrenglon_codigo"
+              },
+              "ci_subrenglon_descripcion": {
+                "source": "ci_subrenglon_descripcion",
+                "title": "ci_subrenglon_descripcion"
+              },
+              "ci_fuente_codigo": {
+                "source": "ci_fuente_codigo",
+                "title": "ci_fuente_codigo"
+              },
+              "ci_fuente_descripcion": {
+                "source": "ci_fuente_descripcion",
+                "title": "ci_fuente_descripcion"
+              },
+              "ff_codigo": {
+                "source": "ff_codigo",
+                "title": "ff_codigo"
+              },
+              "ff_descripcion": {
+                "source": "ff_descripcion",
+                "title": "ff_descripcion"
+              },
+              "ff_clase2": {
+                "source": "ff_clase2",
+                "title": "ff_clase2"
+              }
+            }
+          },
+          "administrative-classification": {
+            "dimensionType": "classification",
+            "primaryKey": [
+              "titulo_codigo"
+            ],
+            "attributes": {
+              "titulo_codigo": {
+                "source": "titulo_codigo",
+                "title": "titulo_codigo"
+              },
+              "titulo_descripcion": {
+                "source": "titulo_descripcion",
+                "title": "titulo_descripcion",
+                "labelfor": "titulo_codigo"
+              }
+            },
+            "classificationType": "administrative"
+          }
+        },
+        "measures": {
+          "pi_monto": {
+            "source": "pi_monto",
+            "title": "pi_monto"
+          },
+          "pp_monto": {
+            "source": "pp_monto",
+            "title": "pp_monto"
+          },
+          "de_monto": {
+            "source": "de_monto",
+            "title": "de_monto"
+          },
+          "pa_monto": {
+            "source": "pa_monto",
+            "title": "pa_monto"
+          }
+        }
+      }
     }
   ],
   "title": "Presupuesto de Ingresos Costa Rica",
