@@ -6632,7 +6632,7 @@
   "title": "Presupuesto de Ingresos Costa Rica",
   "description": "Presupuesto de Ingresos Costa Rica",
   "tags": [
-    "budget"
+    "ingresos"
   ],
   "govt_level": "National",
   "budget_stage": [
@@ -6647,5 +6647,7 @@
     "2018"
   ],
   "start_date": "2017-01-01",
-  "end_date": "2018-12-31"
+  "end_date": "2018-12-31",
+  "createdAt": "2021-10-07T18:37:13Z",
+  "updatedAt": "2021-10-07T18:43:07Z"
 }
