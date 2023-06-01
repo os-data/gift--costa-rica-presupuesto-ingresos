@@ -6642,12 +6642,8 @@
   "continent": "South America",
   "periodicity": "Yearly",
   "country": "Costa Rica",
-  "years_included": [
-    "2017",
-    "2018"
-  ],
-  "start_date": "2017-01-01",
-  "end_date": "2018-12-31",
+  "countryCode": "CR",
+  "fiscalPeriod": { "start": "2017-01-01" , "end": "2020-12-31" },
   "createdAt": "2021-10-07T18:37:13Z",
   "updatedAt": "2021-10-07T18:43:07Z"
 }
