@@ -556,7 +556,7 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "path": "data/ingreso2017ene_dic__2017.csv",
+      "path": "https://storage.openspending.org/costa-rica-presupuesto-ingresos/ingreso2017ene_dic__2017.csv",
       "hashcopy": "d3e24f1fba51a1d5a23678cd3f0cc0331e929aa9268e6eb16b25b96d46fb53bf",
       "sample": [
         [
@@ -2212,7 +2212,7 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "path": "data/ingreso2018ene_dic__2018.csv",
+      "path": "https://storage.openspending.org/costa-rica-presupuesto-ingresos/ingreso2018ene_dic__2018.csv",
       "hashcopy": "0e078a01f877a23c35ff121681e9ed3c332e22578339d9937cab07d2f863345b",
       "sample": [
         [
@@ -3868,7 +3868,7 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "path": "data/ingreso2019ene_dic__2019.csv",
+      "path": "https://storage.openspending.org/costa-rica-presupuesto-ingresos/ingreso2019ene_dic__2019.csv",
       "hashcopy": "8ea01c2919fd564589b9539e37abb7b13dc1ef3ae9b5dfb2343a88998045367d",
       "sample": [
         [
@@ -5524,7 +5524,7 @@
         "delimiter": ",",
         "quoteChar": "\""
       },
-      "path": "data/ingreso2020ene_may__2020.csv",
+      "path": "https://storage.openspending.org/costa-rica-presupuesto-ingresos/ingreso2020ene_may__2020.csv",
       "hashcopy": "8fe1241eedf7ac6a1fa417e44660837290bfaf5c0a1671dbfd07259941b8dd6d",
       "sample": [
         [
